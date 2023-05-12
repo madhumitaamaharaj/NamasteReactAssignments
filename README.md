@@ -30,5 +30,5 @@ Chapter 01 - Inception
 8. Learn about Arrow Functions before the next class
 
 ## References:
-. https://beta.reactjs.org/apis/react/createElement
-. https://www.youtube.com/watch?v=IrHmpdORLu8
+1. https://beta.reactjs.org/apis/react/createElement
+2. https://www.youtube.com/watch?v=IrHmpdORLu8
